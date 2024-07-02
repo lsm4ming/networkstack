@@ -55,7 +55,9 @@
         "netapi.h": "c",
         "sys_plat.h": "c",
         "pcap.h": "c",
-        "*.inc": "cpp"
+        "*.inc": "cpp",
+        "netif_pcap.h": "c",
+        "log.h": "c"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
