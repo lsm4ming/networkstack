@@ -9,7 +9,7 @@ net_err_t netdev_init(void)
 
 int main(int argc, char **argv)
 {
-    log_info("start.");
+    LOG_INFO("start.");
     net_init();
     net_start();
 
